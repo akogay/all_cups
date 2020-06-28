@@ -1,0 +1,32 @@
+id;external_code;external_order_status;localized_status_name
+1;-1;ERROR;Ошибка обработки результата
+2;0;DRAFT;Нет статуса
+3;1;RECEIVED_FROM_REQUESTER;Принято от заявителя
+4;2;SENT_TO_DEPARTMENT;Отправлено в ведомство
+5;3;EXECUTED;Исполнено
+6;4;DENIED;Отказ
+7;5;DEPARTMENT_SENDING_ERROR;Ошибка отправки в ведомство
+8;6;RECEIVED_BY_DEPARTMENT;Принято ведомством
+9;7;INTERMEDIATE_RESULTS;Промежуточные результаты от ведомства
+10;8;UNKNOWN;Неизвестный статус
+11;9;CANCELATION_PROCESS;В процессе отмены
+12;10;CANCELED;Отменено
+13;11;UNCONFIRMED_CANCEL;Неподтвержденная отмена
+14;12;INCOMING_MESSAGE;Входящее сообщение
+15;14;WAITING_MORE_INFO;Донос документов
+16;15;NEED_ADJUSTMENTS;Заявка требует доп. Корректировки
+17;16;OUTGOING_MESSAGE;Исходящее сообщение
+18;17;SENDING_TO_VIS;Продолжаются попытки отправки в ВИС
+19;18;VIS_ERROR;Ошибка отправки в ВИС
+20;19;INVITATION_EVENT;Приглашение на прием
+21;100;VIS_INFO;Информационное сообщение из ВИС
+1063;22;DOCS_TAKEN;Документы приняты
+1853151;150;QUEUE_TO_SEND;Очередь на отправку
+1853152;151;GIVEN_TO_REQUESTER;Выдано заявителю
+1853153;152;UNCLAIMED_RESULT;Невостребованный результат
+1853154;153;REJECT_SERVICE;Отказ заявителя от услуги
+9366622;154;ISSUED_IN_OIV;Выдано в ОИВ
+11735102;155;ON_HOLD_BY_REQUESTER;Приостановлено по инициативе заявителя
+11735103;156;ON_HOLD_BY_REGISTRAR;Приостановлено по инициативе регистратора
+25230324;20;RETURN_DOCUMENTS;Возврат документов заявителю
+37172239;157;GET_INTERDEPARTMENTAL_ANSWER;Получен ответ по МВ

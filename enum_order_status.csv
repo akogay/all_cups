@@ -1,0 +1,28 @@
+id;localized_status_name;order_status
+1;В работе;IN_WORK
+2;Обработка;PROCESSING
+3;Доработка;REVISING
+4;Отправлено в ВИС;SENT_TO_VIS
+5;Отправлено курьером;SENT_BY_COURIER
+6;Контакт-центр;CALL_CENTER
+7;Идёт звонок заявителю;PHONE_CALL_STARTED
+8;Неудачный звонок;PHONE_CALL_FAILED
+9;Выдача;DELIVERY
+10;Завершено;CLOSED
+1060;Документы переданы на выдачу;DOCS_PASSED_TO_ISSUE
+1061;На обработку;DOCS_PASSED_TO_PROCESSOR
+1062;На доработку;DOCS_PASSED_TO_OPERATOR
+1853146;Обработано;PROCESSED
+1853147;Отправка СМС;SENDING_SMS
+1853148;Донос документов;WAITING_FOR_DOCUMENTS
+1853149;Возврат невостребованных результатов;RETURN_UNCLAIMED_RESULT
+1853150;Архив;ARCHIVE
+3330907;Принято в РЦ;RECEIVED_BY_DISTRIBUTE_CENTER
+3330908;Отправлено в МФЦ из РЦ;SENT_TO_MFC_BY_DISTRIBUTE_CENTER
+6282794;Ожидаются недостающие документы;WAITING_MISSING_DOCS
+37172237;Ожидание ответа от ведомства;WAITING_RESPONSE_FROM_DEPARTMENT
+37172238;Готово к отправке запроса;READY_TO_SEND_REQUEST
+97794845;Отказано в приеме документов;REJECTED
+220011818;Ожидание первичной услуги;WAITING_PRIMARY_SERVICE
+220011819;Ожидает выдачи;WAITING_DELIVERY
+234180907;Отказ в приёме документов;REFUSAL_TO_ACCEPT_OF_DOCS
